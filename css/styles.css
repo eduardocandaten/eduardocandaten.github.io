@@ -1,0 +1,25 @@
+/* Global */
+@import "./global/resets.css";
+@import "./global/colors.css";
+@import "./global/fonts.css";
+
+/* Components */
+@import "./components/conteiner.css";
+@import "./components/buttons.css";
+@import "./components/header.css";
+@import "./components/footer.css";
+@import "./components/introduction.css";
+
+/* Animation */
+@import "./animation/simple-anime.css";
+
+/* Home */
+@import "./home/skills.css";
+@import "./home/projects.css";
+@import "./home/training.css";
+
+/* Project Internal */
+@import "./projects/project-internal.css";
+
+/* Animation */
+@import "./animation/simple-anime.css";
